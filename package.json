@@ -1,0 +1,24 @@
+{
+  "name": "mensajes-aleatorios-en-str",
+  "version": "1.0.0",
+  "description": "Es un paquete que retorna mensajes de tipo String de forma aleatoria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edd0214/mensajes-aleatorios-en-str.git"
+  },
+  "keywords": [],
+  "author": "E. Miguel Hdz <miguel.cfeteit@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/edd0214/mensajes-aleatorios-en-str",
+  "bin": {
+    "mensajes-aleatorios-en-str": "./bin/global.js"
+  },
+  "prefererGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
