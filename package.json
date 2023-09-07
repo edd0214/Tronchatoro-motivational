@@ -1,5 +1,5 @@
 {
-  "name": "mensajes-aleatorios-en-str",
+  "name": "Tronchatoro-motivational",
   "version": "1.2.0",
   "description": "Es un paquete que retorna mensajes de tipo String de forma aleatoria.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edd0214/mensajes-aleatorios-en-str.git"
+    "url": "https://github.com/edd0214/Tronchatoro-motivational.git"
   },
   "keywords": [],
   "author": "E. Miguel Hdz <miguel.cfeteit@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/edd0214/mensajes-aleatorios-en-str",
+  "homepage": "https://github.com/edd0214/Tronchatoro-motivational",
   "bin": {
-    "mensajes-aleatorios-en-str": "./bin/global.js"
+    "Tronchatoro-motivational": "./bin/global.js"
   },
   "prefererGlobal": true,
   "dependencies": {

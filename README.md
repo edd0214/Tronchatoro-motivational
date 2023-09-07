@@ -1,20 +1,20 @@
-# mensajes-aleatorios-en-str
-Es un paquete que retorna mensajes de tipo String de forma aleatoria.
+# Tronchatoro-motivational
+Es un paquete que te retorna una frase de motivación ofrecida por la mismísima Tronchatoro.
 ## Install
 
 ```npm
-npm install -g mensajes-aleatorios-en-str
+npm install -g Tronchatoro-motivational
 ```
 
 # Usage
 
 ```bash
- mensajes-aleatorios-en-str
+ Tronchatoro-motivational
 ```
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [mensajes-aleatorios-en-str](https://github.com/edd0214/mensajes-aleatorios-en-str.git)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [Tronchatoro-motivational](https://github.com/edd0214/Tronchatoro-motivational.git)
 
 # License
 
