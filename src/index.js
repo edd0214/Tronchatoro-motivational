@@ -15,6 +15,7 @@ const messages = [
     "¡Cuando termine contigo te verás como animal atropellado",
     "No podrías deletrear «DIFICULTAD» ni aunque tu vida dependiera de ello",
     "Usa la vara, golpea al niño; ése es mi lema",
+    "Otra manzana que se echó a perder."
   ];
   
   const funnyCommit = () => {

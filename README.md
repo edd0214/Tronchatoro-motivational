@@ -1,20 +1,20 @@
-# Tronchatoro-motivational
+# tronchatoro-motivational
 Es un paquete que te retorna una frase de motivación ofrecida por la mismísima Tronchatoro.
 ## Install
 
 ```npm
-npm install -g Tronchatoro-motivational
+npm install -g tronchatoro-motivational
 ```
 
 # Usage
 
 ```bash
- Tronchatoro-motivational
+ tronchatoro-motivational
 ```
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [Tronchatoro-motivational](https://github.com/edd0214/Tronchatoro-motivational.git)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [tronchatoro-motivational](https://github.com/edd0214/tronchatoro-motivational.git)
 
 # License
 

@@ -1,21 +1,21 @@
 {
-  "name": "Tronchatoro-motivational",
+  "name": "tronchatoro-motivational",
   "version": "1.2.0",
-  "description": "Es un paquete que retorna mensajes de tipo String de forma aleatoria.",
+  "description": "Es un paquete que te retorna una frase de motivación ofrecida por la mismísima Tronchatoro.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edd0214/Tronchatoro-motivational.git"
+    "url": "https://github.com/edd0214/tronchatoro-motivational.git"
   },
   "keywords": [],
   "author": "E. Miguel Hdz <miguel.cfeteit@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/edd0214/Tronchatoro-motivational",
+  "homepage": "https://github.com/edd0214/tronchatoro-motivational",
   "bin": {
-    "Tronchatoro-motivational": "./bin/global.js"
+    "tronchatoro-motivational": "./bin/global.js"
   },
   "prefererGlobal": true,
   "dependencies": {
